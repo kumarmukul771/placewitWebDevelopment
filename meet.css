@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  background-color: black;
+}
+
+div{
+    height: 100px;
+    width: 100px;
+    background-color: gray;
+    display: inline-block;
+}
+#main{
+    height: 100%;
+    width: 70%;
+}
+#chat{
+    /* height: 91%;
+    border-radius: 30px;
+    width: 25%;
+    background-color: white;
+    margin: 50px auto;
+    margin-left: 50px; */
+}
+
+.box{
+    height: 100px;
+    width: 250px;
+    background-color: black;
+}

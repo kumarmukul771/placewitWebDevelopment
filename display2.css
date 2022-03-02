@@ -1,0 +1,24 @@
+div {
+  height: 200px;
+  width: 200px;
+  display: inline-block;
+}
+.outer {
+  background-color: black;
+}
+.middle {
+  background-color: green;
+}
+
+#relative {
+  position: relative;
+  top: 500px;
+  left: 50px;
+}
+#middleSection {
+  position: relative;
+}
+#absolute {
+  position: absolute;
+  /* top: 500px; */
+} 

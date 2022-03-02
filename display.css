@@ -1,0 +1,14 @@
+h1 {
+    background-color: aqua;
+    border: solid 1px black;
+    width: 300px;
+    display: inline-block;
+}
+span{
+    /* background-color: pink; */
+    border : solid 1px black;
+    width: 500px;
+    /* margin: 500px; */
+    padding: 100px;
+    overflow: auto;
+}
